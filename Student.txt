@@ -1,0 +1,3 @@
+Student_Name = Juan-Carlos Hubert
+Student_Number = 679517
+Student_Class = HAIT-1D
